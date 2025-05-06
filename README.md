@@ -32,14 +32,6 @@ Imagina que você tem uma lista de atletas olímpicos super legais. Com esse pro
 
 **#html #css #javascript #alura #programação #desenvolvimentoweb**
 
-**[Inserir aqui um GIF animado de um atleta olímpico comemorando]**
-
-**[Inserir aqui um link para o repositório do projeto no GitHub]**
-
-**[Inserir aqui um link para um tutorial sobre HTML, CSS e JavaScript para iniciantes]**
-
-**[Inserir aqui um emoji divertido]**
-
 **Lembre-se:** Esse é apenas um exemplo de como você pode criar um README para o seu projeto. Use a sua criatividade e adicione mais informações que você achar relevantes. 
 
 **O mais importante é que o seu README seja claro, conciso e divertido!** 
